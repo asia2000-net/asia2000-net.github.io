@@ -12,14 +12,14 @@
 <!-- Description -->
   <meta name="description" content="ASIA2000 adalah APK Gratis Version 3.0 Pro Terbaru kini menjadi pilihan banyak pengguna yang ingin menikmati fitur premium tanpa batas.">
 <!-- Preload Image -->
-  <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqc9R.jpg" fetchpriority="high">
+  <link rel="preload" as="image" href="https://s13.gifyu.com/images/bqcqK.jpg" fetchpriority="high">
 <!-- Open Graph -->
   <meta property="og:site_name" content="ASIA2000">
   <meta property="og:title" content="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
   <meta property="og:description" content="ASIA2000 adalah APK Gratis Version 3.0 Pro Terbaru kini menjadi pilihan banyak pengguna yang ingin menikmati fitur premium tanpa batas.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://asia2000-net.github.io/">
-  <meta property="og:image" content="https://s13.gifyu.com/images/bqc9R.jpg">
+  <meta property="og:image" content="https://s13.gifyu.com/images/bqcqK.jpg">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
 <!-- Twitter -->
@@ -27,7 +27,7 @@
   <meta name="twitter:site" content="ASIA2000">
   <meta name="twitter:title" content="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
   <meta name="twitter:description" content="ASIA2000 adalah APK Gratis Version 3.0 Pro Terbaru kini menjadi pilihan banyak pengguna yang ingin menikmati fitur premium tanpa batas.">
-  <meta name="twitter:image" content="https://s13.gifyu.com/images/bqc9R.jpg">
+  <meta name="twitter:image" content="https://s13.gifyu.com/images/bqcqK.jpg">
 <!-- Twitter App Info -->
   <meta name="twitter:app:country" content="ASIA2000">
   <meta name="twitter:app:name:iphone" content="ASIA2000">
@@ -441,7 +441,7 @@ box-shadow: 0px 0px 3px #fff;
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
                                                                                                     <a class="skelton" data-fancybox="gallery" href="https://asia2000-net.github.io/">
-                                                        <img data-fancybox="gallery" src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                        <img data-fancybox="gallery" src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                                 </a>
                                                                                                 </div>
                                             </div>
@@ -456,20 +456,20 @@ box-shadow: 0px 0px 3px #fff;
                                     <div class="thumbnail-container">
                                         <div class="d-flex justify-content-between">
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                 <img src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                    <img src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                    <img src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                <img src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                <img src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                                 
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://s13.gifyu.com/images/bqc9R.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
+                                                 <img src="https://s13.gifyu.com/images/bqcqK.jpg" alt="ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia">
                                                 
                                             </div>
                                     </div>
@@ -1907,7 +1907,7 @@ box-shadow: 0px 0px 3px #fff;
       "name": "ASIA2000 | Situs Resmi Online Gaming Terbaik Di Indonesia",
       "image": [
         "https://s13.gifyu.com/images/bqljs.png",
-        "https://s13.gifyu.com/images/bqc9R.jpg"
+        "https://s13.gifyu.com/images/bqcqK.jpg"
       ],
       "description": "ASIA2000 adalah APK Gratis Version 3.0 Pro Terbaru kini menjadi pilihan banyak pengguna yang ingin menikmati fitur premium tanpa batas.",
       "url": "https://asia2000-net.github.io/",
@@ -2044,7 +2044,7 @@ box-shadow: 0px 0px 3px #fff;
   "@type": "LocalBusiness",
   "name": "ASIA2000",
   "image": [
-    "https://s13.gifyu.com/images/bqc9R.jpg"
+    "https://s13.gifyu.com/images/bqcqK.jpg"
   ],
   "url": "https://asia2000-net.github.io/",
   "telephone": "+62-813-9865-1256",
